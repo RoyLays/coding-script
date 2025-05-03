@@ -22,4 +22,4 @@ while (n1 < arr1.length) {
   n3++;
 }
 
-console.warn(arr3);
+console.log(arr3);
